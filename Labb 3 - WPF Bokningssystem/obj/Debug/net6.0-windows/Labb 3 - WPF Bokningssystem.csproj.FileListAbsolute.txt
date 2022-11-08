@@ -1,0 +1,21 @@
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\bin\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.exe
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\bin\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.deps.json
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\bin\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.runtimeconfig.json
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\bin\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.dll
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\bin\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.pdb
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem_MarkupCompile.cache
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem_MarkupCompile.lref
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.g.resources
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.AssemblyInfo.cs
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.dll
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\refint\Labb 3 - WPF Bokningssystem.dll
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.pdb
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\Labb 3 - WPF Bokningssystem.genruntimeconfig.cache
+C:\Users\johan\source\repos\Labb 3 - WPF Bokningssystem\obj\Debug\net6.0-windows\ref\Labb 3 - WPF Bokningssystem.dll

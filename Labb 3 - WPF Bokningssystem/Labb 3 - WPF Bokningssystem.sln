@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 3 - WPF Bokningssystem", "Labb 3 - WPF Bokningssystem.csproj", "{13AD1931-6A76-4D3B-82FF-A530A9AFF4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13AD1931-6A76-4D3B-82FF-A530A9AFF4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AD1931-6A76-4D3B-82FF-A530A9AFF4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AD1931-6A76-4D3B-82FF-A530A9AFF4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AD1931-6A76-4D3B-82FF-A530A9AFF4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75244E6D-F518-4BBA-87D1-D596665534D1}
+	EndGlobalSection
+EndGlobal
