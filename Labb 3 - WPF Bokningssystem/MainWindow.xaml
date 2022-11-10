@@ -490,7 +490,6 @@
                     </ListView>
 
                     <Button x:Name="btnCancelBooking" Content="Avboka" Click="btnCancelBooking_Click" Margin="0,0,15,5" Width="162" Height="50" HorizontalAlignment="Right"/>
-                    <Button x:Name="btnFillCalender" Content="Fyll kalendern med bokningar" Margin="0,15,15,0" HorizontalAlignment="Right" Click="btnFillCalender_Click"/>
                 </StackPanel>
 
             </Grid>
