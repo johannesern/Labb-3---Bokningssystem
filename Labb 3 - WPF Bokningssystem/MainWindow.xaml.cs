@@ -114,7 +114,7 @@ namespace WpfApp1
 
 
 		//==================================================================================================================
-		//Koden nedanför är bara till för att lägga till en stor mängd objekt snabbt och är ej skriven för att vara lättläst
+		//Koden nedanför är bara till för att lägga till en stor mängd objekt snabbt och är ej skriven med tanke på läsbarhet eller clean code
 		private void btnFillCalender_Click(object sender, RoutedEventArgs e)
 		{
 			AutoCalFiller();
@@ -124,7 +124,6 @@ namespace WpfApp1
 			Random random = new Random();
 
 			string today = DateTime.Now.ToString("dd");
-			int k = random.Next(int.Parse(today), 31);
 			for (int i = 0; i < 30; i++)
 			{
 				for (int j = 0; j < 5; j++)
@@ -136,7 +135,7 @@ namespace WpfApp1
 		private void FillCalenderWithRandomBookings()
 		{
 			string[] names = { "Kalle", "Pelle", "Lisa", "Kajsa", "Thomas", "Anna", "Sven", "Björn", "Malin", "Mary", "Matilda" };
-			string[] times = { "12:00", "15:00", "16:00", "18:00", "20:00", "22:00" };
+			string[] times = { "12:00", "14:00", "16:00", "18:00", "20:00", "22:00" };
 			Random random = new Random();
 			string name = names[random.Next(names.Length)];
 			string time = times[random.Next(times.Length)];

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johannes\\Source\\Repos\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
+      "projectUniqueName": "C:\\Users\\Johannes\\Desktop\\New folder\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
       "projectName": "Labb 3 - WPF Bokningssystem",
-      "projectPath": "C:\\Users\\Johannes\\Source\\Repos\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
+      "projectPath": "C:\\Users\\Johannes\\Desktop\\New folder\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
       "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johannes\\Source\\Repos\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\obj\\",
+      "outputPath": "C:\\Users\\Johannes\\Desktop\\New folder\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
