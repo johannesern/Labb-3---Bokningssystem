@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\johan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Johannes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
+      "projectUniqueName": "C:\\Users\\Johannes\\Source\\Repos\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
       "projectName": "Labb 3 - WPF Bokningssystem",
-      "projectPath": "C:\\Users\\johan\\source\\repos\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
-      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johan\\source\\repos\\Labb 3 - WPF Bokningssystem\\obj\\",
+      "projectPath": "C:\\Users\\Johannes\\Source\\Repos\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\Labb 3 - WPF Bokningssystem.csproj",
+      "packagesPath": "C:\\Users\\Johannes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Johannes\\Source\\Repos\\Labb-3---Bokningssystem\\Labb 3 - WPF Bokningssystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

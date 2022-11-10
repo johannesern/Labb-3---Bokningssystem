@@ -470,7 +470,7 @@
 
                 </StackPanel>
 
-                <StackPanel x:Name="RightSide" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="2" MaxWidth="397">
+                <StackPanel x:Name="RightSide" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="2" MaxWidth="410">
 
                     <ListView x:Name="listView" Margin="0,20,15,15" HorizontalAlignment="Left" d:ItemsSource="{d:SampleData ItemCount=1}" MinHeight="236" Height="auto" MouseEnter="listView_MouseEnter">
                         <ListView.ItemContainerStyle>
